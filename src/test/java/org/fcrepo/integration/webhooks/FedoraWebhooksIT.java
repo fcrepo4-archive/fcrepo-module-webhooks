@@ -1,4 +1,4 @@
-package org.fcrepo.webhooks;
+package org.fcrepo.integration.webhooks;
 
 
 import static java.util.regex.Pattern.DOTALL;

@@ -1,4 +1,4 @@
-package org.fcrepo.webhooks;
+package org.fcrepo.integration.webhooks;
 
 import javax.ws.rs.POST;
 import javax.ws.rs.Path;

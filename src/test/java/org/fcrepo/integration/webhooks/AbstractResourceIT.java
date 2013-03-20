@@ -1,5 +1,5 @@
 
-package org.fcrepo.webhooks;
+package org.fcrepo.integration.webhooks;
 
 import static java.lang.Integer.parseInt;
 import static java.lang.System.getProperty;
